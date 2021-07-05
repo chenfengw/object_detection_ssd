@@ -1,4 +1,6 @@
 # SSD: Single Shot MultiBox Object Detector
+Code modified from [ssd.pytorch](https://github.com/amdegroot/ssd.pytorch).
+
 ## Evaluation 
 Evaluation performed on PASCAL VOC 2012 dataset.
 Categories | AP 
